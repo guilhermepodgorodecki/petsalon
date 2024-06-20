@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    body {
+        background-image: url(../img/22.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 728px; /* Altura da tela desejada */
+        position: relative; /* Para uso de posicionamento absoluto */
+        background-repeat: no-repeat;
+        
+    }
+
+    .conteudo {
+        margin: 0;
+        margin-top: 45em;
+        background-color: #040d83;
+    }
+    
+    h1 {
+        font-size: 20px;
+        height: 30px;
+        border-radius: 5px;
+    }
+}
